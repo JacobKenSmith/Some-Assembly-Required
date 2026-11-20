@@ -1,0 +1,23 @@
+{
+  "title": "Some Assembly Required",
+  "version_number": 16,
+  "source_commit": "ead7b63473b6edc0b9f11c47ce4135d31529f0dd",
+  "exported_on": "2026-11-20",
+  "project_id": "appgprj_6af129c7089c8191b5c0b950d245db55",
+  "version_id": "appgprj_6af129c7089c8191b5c0b950d245db55~appgver_4ba17bf3af4c8191b646a2c42e628ee5",
+  "deployment_id": "appgdep_6af4df6413ac8191a06dc133e435a903",
+  "original_tracked_files": 3018,
+  "original_files_changed": 0,
+  "website_root": "dist",
+  "build_required": false,
+  "database_required": false,
+  "server_side_services_required": false,
+  "verification": {
+    "original_file_sha256": "passed",
+    "local_html_references": 10105,
+    "missing_local_html_references": 0,
+    "node_syntax_check": "passed",
+    "quotation_unit_tests": 6,
+    "browser_visual_check": "not repeated; website bytes unchanged"
+  }
+}

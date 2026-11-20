@@ -1,0 +1,35 @@
+{
+  "input_records": 22017,
+  "selected_posts": 723,
+  "review_candidates": 10,
+  "quote_occurrences": 10260,
+  "extended_reproductions": 117,
+  "quotation_posts": 606,
+  "inherited_only_posts": 166,
+  "dates": [
+    "1996-04-05",
+    "2008-08-13T20:20:04+00:00"
+  ],
+  "references": [
+    {
+      "edition": "edition_1",
+      "message_id": "<CBz6d.6992$Ki1.4180@newsread2.news.atl.earthlink.net>",
+      "subject": "Free Ted Kaczynski!",
+      "author": "Dib <dib@mysteriousmysteries.org>",
+      "date": "Wed, 29 Sep 2004 14:25:38 +0000",
+      "paragraphs": 232,
+      "notes": 36
+    },
+    {
+      "edition": "edition_2",
+      "message_id": "<UzQw5.1262$JV3.4527@newsfeed.slurp.net>",
+      "subject": "Industrial Society and its Future",
+      "author": "Diablo <diablo@rio.bravo.net>",
+      "date": "2000/09/16",
+      "paragraphs": 232,
+      "notes": 36
+    }
+  ],
+  "input_sha256": "1aae5e6fb2e249d08599fd9a0c67ff04c540a0bae2e8f282b22d64a08051f2df",
+  "method": "All raw records retained; normalized exact matching, seed 8 words, 35 normalized characters; >=12 words or quotation/attribution evidence for inclusion. Other 8\u201311 word overlaps and shared idioms without attribution are separate review candidates. No paraphrase inference."
+}

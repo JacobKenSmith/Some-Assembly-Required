@@ -1,0 +1,3617 @@
+[
+  {
+    "id": "post-21624-858dae0a",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-21635-ea062bf9",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-21656-29450ab4",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-21669-625103b5",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-21682-aab565cc",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-21695-ae50daab",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-21713-62d0ddbd",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-21617-cee73421",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-21399-5ee90f86",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-21501-e79b931d",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-21311-ac7e1a34",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-21199-79c905d5",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-21213-35d97253",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20922-93cf8d19",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-20785-c60fc435",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20944-0d420689",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20670-26219940",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-20671-3028bdae",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-20672-7c1de95e",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-20673-de44347f",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-20674-a0406a6e",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-20675-3f36ef81",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-20676-812e66e5",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-20677-b965794d",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-20678-f8e15325",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-20679-4cc93526",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-20680-f24072be",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-20681-211b2d2e",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-20682-9f74f89a",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-20683-4b3d88db",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-20693-5267d18f",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20694-db91f56c",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20704-c6239147",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20712-29753011",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-20532-442b1281",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20549-4010ba0d",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20502-f7c98373",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20601-8faa2e13",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20617-bab0ea8d",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-20399-5004e886",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20342-fde3be52",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-20258-6089589b",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20260-d658b32f",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20266-2e514b82",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20268-24bcbe0c",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20131-ee8fbf7a",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20138-eae87c69",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20155-20d373ea",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20158-ea089389",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20164-911d3307",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20078-abb54eed",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20204-44f04459",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-20105-7c45838a",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20037-6709a76e",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-20055-59dfed7d",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-19994-6064690a",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-19947-0785dcf5",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-19957-cb33cf48",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-19958-2ec45a8a",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-19959-18c7770e",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-19960-d55c60b4",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-19886-014d6554",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-19600-50cd4487",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-19715-dbaf707d",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-19561-28c4d8de",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-19394-6f9128a5",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-19420-53cb47ee",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-19226-d1544d18",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-19324-df16fcf3",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-19330-10164d7d",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-19295-dfebd564",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-19120-f136b0a1",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-19043-d862151e",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-19062-1c15c347",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-19142-6db7c920",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-19152-463d7cc5",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-19165-78be67e4",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-18989-11d32568",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-18999-d63b1861",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-19011-c4d28354",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-19015-7a59295a",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-18877-d55da056",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-19026-61613310",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-18905-f2baab4d",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-18917-79934f2b",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-18944-385b7dc5",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-18712-b1282203",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-18669-87f758dd",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-18599-34f6f756",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-18614-75cf4e2d",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-18615-7c7c1857",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-18479-83f13d54",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-18384-ede5b9af",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-18386-0761e218",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-18387-ce05f1b8",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-18388-f6ebf899",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-18327-4a56eb2c",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-18328-b85ba959",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-18293-66b44cbe",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-18300-82a932af",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-18239-3800619a",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-18274-c67e1ccf",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-18201-a1f715e1",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-18219-381778b1",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-18130-7769621f",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-18150-d4f304d0",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-18152-692e5d89",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-18173-efc8a308",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-17980-4eb1e722",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-17982-2ed2d45f",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-17989-38b0be65",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-17990-53d58fe9",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-17995-d18f90c6",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-18018-4cdd979d",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-18099-c8842a01",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-18125-768c1d79",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-17976-e32e4513",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-18027-83d90e75",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-18036-c4de4f0d",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-18037-9e5fa6fa",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-18050-82ef5d6b",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-18052-9a968c58",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-18059-18074fcd",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-17926-4d072446",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-17794-748f415c",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-17807-b46d5ab5",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-17832-5b99294e",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-17834-e342c4c9",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-17610-17d3c2cd",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-17554-1c9e51f5",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-17492-38d20476",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-17502-428fd3f8",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-17331-ed96c05b",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-17425-0f20ce94",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-17231-83c2136b",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-17177-b09b05e7",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-17301-e63d63e5",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-17306-9b8b406b",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-17147-5fea815b",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-17053-e88c20c5",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-16821-a053e9b7",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-16687-629a0237",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-16688-edec7100",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-16696-3697d8dd",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-16699-406b4e1c",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-16707-aa008057",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-16540-fbfc8073",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-16435-00f60749",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-16577-b2587b64",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-16579-8615ddf1",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-16583-c88f2157",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-16443-7790b6d5",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-16477-80110120",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-16391-0494daf9",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-16333-cdb38e72",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-16203-8392d37f",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-16149-4915d441",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-16085-84de01e3",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-16182-d32b935a",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-16102-ccfdf1d7",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-16104-13458582",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-16115-5e560774",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-16127-611c60fc",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-16035-fb8bc419",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-16036-065e41e7",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-16133-29b2ee92",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-16134-c53a5de3",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-16052-16a0f30c",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-16076-899772a3",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-15985-90764804",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-16081-62f595c9",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-16033-ba7e8a17",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-15794-ea19c3b4",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-15836-b60466ec",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-15664-b9701f9b",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-15673-eae6865c",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-15753-8d626be0",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-15711-6a136b17",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-15713-f8543fc2",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-15434-0e4c812b",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-15307-77d6fc1f",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-15324-721279ea",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-15139-8d5d6233",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-15141-afda3203",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-15048-84a1b220",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-15051-8bc71e2a",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-15067-6cbed8ac",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-15072-35dca6ca",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14856-f7fd6c6b",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-15007-15adb755",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-15012-1a7d5b45",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-15018-f914f284",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-15025-4633ee43",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-14901-a3569167",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14904-4ff5d3db",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-14793-e28f962e",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-14797-6b8f882d",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-14799-c0675fdc",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-14806-2303438b",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14807-7272e701",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14940-f3426751",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14941-f4852f3f",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-14826-0707c21e",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14838-df7cf2a9",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14839-60b05d48",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14756-ac3b84bc",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14758-c1feee6f",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14763-4a5bc12c",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14303-a567d5d2",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14305-109b179a",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14332-77ba5f12",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14335-7a72ea2e",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14403-928f471f",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14405-0c3291d1",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14418-4918d12c",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14434-f54934fb",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14437-9ebcfeb5",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14440-ef59f334",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14473-9152dd9e",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14474-bd231181",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14476-4b00d94a",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14477-c084a5d7",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14504-e328a509",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14523-10001cc2",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14343-60abd4fa",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14252-4444df91",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14110-76fa0a86",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14119-3de69455",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14150-37a363c3",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-14156-35ac9854",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-13881-da82f85a",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-13782-c142573b",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-13653-94da7996",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-13690-ecd94f05",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13723-ff182983",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-13738-6197b454",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-13491-d082f7e9",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13504-08188829",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13529-99a6b191",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13536-51cbfcdb",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13347-6950e74c",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13355-024ca01e",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-13359-91150450",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13380-f012a8e0",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-13381-2ba6f05c",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13382-7928110f",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-13388-521c1d74",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-13544-763e0f41",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-13550-86804e66",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13559-c56cbaf7",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-13573-418a8ca4",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-13577-5c046158",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13406-34d367ea",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13421-8bdc89ba",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-13428-0a6bffef",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13438-3651e44e",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13306-b6bd412d",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13311-10d8a703",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13320-f8386b8d",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-13110-dd049fd1",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-13126-7001d939",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-13131-26f78a4c",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-13133-4fb18994",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13203-4830f162",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13236-42420169",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13278-ce184b83",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13172-1151b473",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13062-0e399d45",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13191-dc6c629e",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13072-588dc8db",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12995-3397f0b3",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-13076-a42f92d3",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-13078-57fb0d51",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-13017-5cd5a96a",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12929-0328af14",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12958-2a7bcfb1",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12984-eac6081b",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12986-1f63c068",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-12847-f011a3fc",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12852-b3273c55",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-12853-4ecf689e",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-12799-88f8d9fb",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-12860-1c38d45f",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12826-cc96ed7c",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12721-7a130ab8",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12596-c555ee3e",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12607-5e67209f",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-12621-c7d34f6c",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12628-b3c5d63d",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-12632-b3eb649e",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12665-e43a2a11",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12549-0c5a402f",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12497-84c7e96d",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-12504-c3f182fd",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12505-834ef84c",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12538-ecb5f655",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12465-d704d224",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12477-e2ef02bb",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12350-ffe9a6a3",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-12489-73a997be",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12365-3630de02",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-12367-7661b8ab",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12379-d1feac42",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-12390-c6d26d5f",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12319-c3facefd",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12336-75f240d8",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12256-7dcbed47",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12195-c33c33b0",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-12208-58f9d79c",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12288-c3c52f58",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-12220-af70414b",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12160-39ba3c58",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12176-7553543b",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12050-85b9a299",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12128-68076334",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12059-0c98aaf8",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11995-869b02b8",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-12084-b31ded27",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11915-062cf7a9",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11746-c39d9692",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11931-33a72784",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11773-283d8f31",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11700-2e48bbed",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11824-e355b217",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11856-2b16ee4c",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11861-982306d5",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11875-00a07c1f",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11890-4e9f2015",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11644-ded5bd84",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11654-bb7c7ed6",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11655-4b50a4cb",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11893-3d86a20b",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11658-057dd9ce",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11666-810f00b4",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11667-fe4d6b99",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11672-ebfc4dcd",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11675-50cc4d47",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11687-046adbd6",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11597-47c3e41c",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11689-5bcbb682",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11690-334204fe",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11603-5630a825",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-11611-6ec38bb9",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11613-d58f8cb3",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11626-5f5841e5",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11639-08983353",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11451-67e7836a",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11457-941685b5",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11460-9902f0f0",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11461-43dcd097",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11397-6167b535",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11425-29aa1d59",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11432-2d9494ba",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11496-e426ee48",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11519-d314a10b",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11521-922f14c8",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11523-6c06715e",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11524-5b0d03ce",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11538-db58ac7f",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11540-c7fc5350",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11580-9684450b",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11588-41918e2b",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11592-53fc32ea",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11290-b3693b63",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-11292-02190973",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11297-5b013382",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11299-f8eec39f",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11302-9f016f74",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11306-374e4864",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11317-c3f20713",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11220-25df11d5",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11387-320ddeb4",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11046-d32e3b43",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11082-45a5df10",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-11110-ab969140",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-11119-77f1ee7d",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-10983-1ac5f2fb",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-10895-9e398209",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-10899-d98aaad0",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-10756-8f43fdbc",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-10775-4538b2b0",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-10711-112f4ef0",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-10712-fc50366c",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-10738-f8ce8f9e",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-10741-87981a47",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-10620-1c37945a",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-10625-43912952",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-10626-6adab968",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-10627-b018169d",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-10628-1e776d3c",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-10629-6493a328",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-10630-a8740637",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-10633-f3fa3226",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-10561-b3a3529c",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-10443-0c21d3f6",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-10470-f2486b75",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-10481-68ffec5b",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-10311-1564e104",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-10256-0bc88df1",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-10278-19644820",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-10287-f9ffe3b0",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-10190-500b0686",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-10101-c77ba32f",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-10049-bad3dcd5",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-10054-b0d3bfa5",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-10056-cfc17851",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-09994-eac8a275",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-09995-cb221ede",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-10090-8807adb8",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-10093-a84f8800",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-10017-4b00aef9",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-09749-5ed53cfd",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-09750-f763cb0f",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-09751-0fac9936",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-09752-2e96d7b5",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-09753-7c354fd1",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-09766-853a0d28",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-09772-bec6f457",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-09774-8b394320",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-09781-65ce4d17",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-09651-6d062e3b",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-09652-6c9fb4a4",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-09662-336f8cd7",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-09671-f2cb0e24",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-09522-2d7e6d8c",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-09531-dea69115",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-09335-ff39af5d",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-09337-465097d2",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-09254-f1c7eb55",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-09140-28a242ff",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-08974-05257a1c",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-08844-43d21d8d",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-08942-da841f10",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-08862-0bab7b9a",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-08598-2e28a26d",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-08495-8ac6161b",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-08509-4fe3539e",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-08534-38cccd6c",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-08447-9df840a3",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-08085-3045791f",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-07984-3ec2450a",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-08005-b6e93994",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-08007-f8076c61",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-08010-a65388fc",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-07903-0902a8c5",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-07835-efd1ded5",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-07840-f0b94e98",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-07852-522b4ec6",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-07710-0e4ecaaa",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-07641-6990f219",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-07512-26cf4e5f",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-07513-c24f71f3",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-07550-b48256f9",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-07416-5efb2421",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-07419-28d643a3",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-07298-e1d8fd77",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-07330-e5e4dd19",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-07174-1759275b",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-07178-88997ae2",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06998-d3740a64",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06983-60366ca9",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06912-e6b943ce",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06941-442d11b7",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06876-ab300902",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06656-b1c8c103",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06834-7e6dcfb9",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06836-9fde34cc",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06839-80403f40",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06843-bde0c013",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06763-81a0341e",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06764-6e7407a0",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06786-87cb3597",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06787-299b9336",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06698-b585d2bb",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-06725-86397d5e",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06726-0ea337ce",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06727-bff542cf",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06728-b4fb9073",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06729-0064701d",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06594-cda45a9e",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06609-4008cd42",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06615-9cafb7e1",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06634-956363fb",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06557-6fb39873",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06573-1000da54",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06445-91037ab0",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06592-a3f5bd60",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06485-7345934a",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06534-14312e3c",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06402-f9af7518",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06220-60f87243",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06231-49f1b7cd",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06235-79d6bee7",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06243-f65649c4",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06249-0bdbe09d",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06255-334c6899",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06257-665b1464",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06269-75001c96",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06271-bc559475",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06290-a137407f",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06359-cc532d12",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06361-228e5e93",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06362-3314a175",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06379-ad02b894",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06385-60317bc2",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06168-212b4b62",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06169-4d382401",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06170-6c1cbcbd",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06171-481969e0",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06172-78a65f6c",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06180-df0962fe",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06184-1bcc0cdd",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06185-63aa42ff",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06186-d55fd3b6",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06187-d6763696",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-05954-c2f68115",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-05974-4d98f672",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-06105-cfa96d51",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06049-1b8c985e",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06052-2eaaa75f",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-06077-0b1503cb",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-05912-c95e2202",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-05915-4ab963ee",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-05941-39910c82",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-05942-e1cfcee8",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-05674-ea31186e",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-05606-2be95278",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-05609-5fc47f34",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-05441-4f7118a8",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-05310-420c942c",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-05255-64101472",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-05282-a642ab51",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-05287-c96bc41a",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-05198-dc52423e",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-05203-6655c3be",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-05217-c61428a1",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-05164-ce1707dd",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-05172-3e65b78a",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-04776-b11f9451",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-04810-e7f11505",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-04811-e53c0d4f",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-04812-94c06539",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-04813-341584e9",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-04814-eb6a4644",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-04825-aa8a1ba5",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-04671-8487eef6",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-04637-1924aa97",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-04638-886d9c99",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-04639-4ef0cc6b",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-04316-10d4bdd8",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-04184-f346ad80",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-04185-de81134b",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-04003-bc0bdd28",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-04015-b600f412",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-03967-7a65107f",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-03797-03e0a2c1",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-03799-a968741a",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-03815-ca39dbbf",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-03868-10939fec",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-03879-6e6e37cd",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-03886-4e78b2fe",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-03890-00aad391",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-03893-cf617942",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-03754-9e27ed74",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-03756-02676b05",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-03717-f899ed5e",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-03720-11b82fc1",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-03722-1e15666a",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-03725-e3525741",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-03726-9ce79379",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-03727-9a2f2ea0",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-03728-76e6617f",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-03736-eab0302d",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-03682-0380d9ae",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-03683-96d8157e",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-03362-31202d07",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-03209-669ebda9",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-03247-9bfee09c",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-03253-b51a177f",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-02994-6459b8d6",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-02804-0f587daa",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-02805-a07f767f",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-02826-e33cc8ff",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-02832-44c86109",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-02668-c5c08e98",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-02550-52ac1f4b",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-02455-c9f2be3f",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-02458-d51e03de",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-02463-d364d607",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-02465-fd6ba218",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-02181-26b0d8f5",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-02182-eafedd2a",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-02138-75e7bf05",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-02144-978e58f0",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-02146-3763d692",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-01998-746e30b1",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-02047-259524fe",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-02049-34d8ef6b",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-02059-5f1c198b",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01828-3b6ae2a8",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-01896-a024e68f",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01793-32d15f26",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01794-6b4223f7",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01795-5d21bb0a",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-01796-40ce25b0",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-01719-278e5edf",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01552-54c5da0d",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01629-d7b5d8db",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01630-ca81efa8",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01631-4bab7c94",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01632-504496b4",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01635-d8d86f6e",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01636-0bb5f6f2",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01457-27f731b7",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01458-4516588b",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01461-720e7cb7",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01473-688a18ee",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01477-d861b375",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01491-e3440a95",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01493-5a5dc4f4",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01350-30e1bb6a",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01352-1314503c",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01356-c612220a",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01357-8d1e3b7c",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01359-b2da9095",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01360-84de8fe2",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01364-db2988b1",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01365-d0b0398a",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01376-80c8ae1e",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01377-b71b40b6",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-01378-a72550c0",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-01379-6b5b575f",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01380-a692062f",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01381-db323d3a",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-01382-cc5a4cfd",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01383-fd14e227",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01384-3a217508",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01385-2f0e20d8",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01388-cc19938d",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01389-6832530c",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01391-e4030e8c",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-01392-6df7868f",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-01393-0c70f348",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01394-6295ca6b",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-01396-6b68671a",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01400-edcb43d7",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01401-aa3da43c",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01402-cacbf051",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01403-149c4d69",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01404-433bdf39",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-01405-317e98bb",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01406-e68f1219",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-01407-1ce18627",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01408-cf12f2e8",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-01411-458e7424",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01412-d8e33436",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-01413-e86b6891",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01414-54da0842",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-01415-7ce3db26",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-01416-5620ca17",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-01257-37f0b29f",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01260-7955a22d",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01262-f2d3df75",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01276-859192d5",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01277-044c374d",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01286-6c359979",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01289-868ade5d",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01291-6ec055d6",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01298-d2326786",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01299-bab4e964",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01207-09abd1e6",
+    "included": false,
+    "reason": "No current-writer response could be separated from quoted text"
+  },
+  {
+    "id": "post-01218-80d897a3",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01245-65e70994",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01104-306f59ee",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01142-1b93a680",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01159-1a6e8a2e",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-01167-e09cd0f0",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01047-0f6cfb0e",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01049-1cb672f9",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01052-070aecf4",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01053-bd034ccb",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01054-cede18dc",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01057-01fa7410",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01061-a338f6b1",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-01064-dbe7bb52",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01065-33b51a36",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01066-b3175889",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01076-36d9c099",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01077-8229a39b",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01079-65ee3de3",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01080-a476c205",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01081-c00732b4",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01083-64f5064e",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01084-6ef0c17d",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01087-c07bf703",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01090-c1b13ba9",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-01012-47f353c1",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-00991-fcbfa1cb",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-00775-7e63f177",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-00777-975ca74f",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-00773-62b5d1b9",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-00774-553fb7bb",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-00776-ec48efcc",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-00787-74822b69",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-00789-b8ffda60",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-00799-9345f859",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-00806-ca2862bc",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-00609-92790c97",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-00547-5125420a",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-00551-9a21b870",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-00581-eb14fb8d",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-00595-99584b0c",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-00596-1c8a261c",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-00499-2d6a0b73",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-00509-e43d16ab",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-00527-02dafc45",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-00351-3b6a81f8",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-00476-5ee18393",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-00493-dc13fb3f",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-00241-8c293d4c",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  },
+  {
+    "id": "post-00057-5927c71c",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-00060-84e96411",
+    "included": true,
+    "reason": "Reviewed content-related interpretation, application, criticism, or brief response"
+  },
+  {
+    "id": "post-00091-7970dfd3",
+    "included": false,
+    "reason": "No passage engagement established: quotation/repost, inherited text, signature, unrelated conversation, or unresolved local relationship"
+  }
+]
